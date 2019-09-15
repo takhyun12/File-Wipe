@@ -1,0 +1,14 @@
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\bin\Release\File_Wipe_1.0.exe
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\bin\Release\File_Wipe_1.0.pdb
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.csprojResolveAssemblyReference.cache
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1._0.Properties.Resources.resources
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1._0.Main.resources
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.csproj.GenerateResource.Cache
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.exe
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.pdb
+\\50.1.1.105\giche\05_[개인자료모음]\03_정보보호실\[보안공모전출품작]\[정보보호실] 17년 보안공모전\대위(진) 김한솔\파일 완전삭제 프로그램\소스코드\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.exe
+\\50.1.1.105\giche\05_[개인자료모음]\03_정보보호실\[보안공모전출품작]\[정보보호실] 17년 보안공모전\대위(진) 김한솔\파일 완전삭제 프로그램\소스코드\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.pdb
+C:\Users\하사정택현0188\Desktop\파일 완전삭제 프로그램\소스코드\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.exe
+C:\Users\하사정택현0188\Desktop\파일 완전삭제 프로그램\소스코드\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.pdb
+D:\개발\파일 완전삭제 프로그램\소스코드\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.exe
+D:\개발\파일 완전삭제 프로그램\소스코드\File_Wipe_1.0\File_Wipe_1.0\obj\Release\File_Wipe_1.0.pdb

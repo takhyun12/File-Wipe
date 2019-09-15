@@ -1,0 +1,15 @@
+c:\users\하사정택현0188\documents\visual studio 2015\Projects\File_Wipe_1.0\File_Wipe_1.0\bin\Debug\File_Wipe_1.0.exe
+c:\users\하사정택현0188\documents\visual studio 2015\Projects\File_Wipe_1.0\File_Wipe_1.0\bin\Debug\File_Wipe_1.0.pdb
+c:\users\하사정택현0188\documents\visual studio 2015\Projects\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.csprojResolveAssemblyReference.cache
+c:\users\하사정택현0188\documents\visual studio 2015\Projects\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1._0.Properties.Resources.resources
+c:\users\하사정택현0188\documents\visual studio 2015\Projects\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.csproj.GenerateResource.Cache
+c:\users\하사정택현0188\documents\visual studio 2015\Projects\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.exe
+c:\users\하사정택현0188\documents\visual studio 2015\Projects\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.pdb
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.exe
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.pdb
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\bin\Debug\File_Wipe_1.0.exe
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\bin\Debug\File_Wipe_1.0.pdb
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.csprojResolveAssemblyReference.cache
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1._0.Properties.Resources.resources
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1.0.csproj.GenerateResource.Cache
+C:\Users\하사정택현0188\Desktop\File_Wipe_1.0\File_Wipe_1.0\obj\Debug\File_Wipe_1._0.Main.resources
